@@ -11,10 +11,11 @@ const Homepage = () => {
   ];
 
   return (
-    <div className="container"> {/* Add the container class */}
-      <h1 className="title">Welcome to the School of Engineering</h1> {/* Add the title class */}
-      <h2>Engineering Programs:</h2>
-      <ul className="program-list"> {/* Add the program-list class */}
+    <div className="container">
+      <h1 className="title">Welcome to the University Of Ghana School of Engineering</h1>
+      <h2>WE MAKE THINGS WORK!!!</h2>
+      <h3>Engineering Programs Offered:</h3>
+      <ul className="program-list">
         {engineeringPrograms.map((program, index) => (
           <li key={index}>{program}</li>
         ))}
