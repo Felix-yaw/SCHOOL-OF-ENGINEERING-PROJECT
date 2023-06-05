@@ -1,5 +1,4 @@
 /* styles.css */
-
 body {
     font-family: Arial, sans-serif;
     background-color: #f2f2f2;
@@ -30,8 +29,26 @@ body {
     font-size: 18px;
     font-weight: bold;
     margin-bottom: 10px;
-    color: #333;
+    color: #333333;
   }
   
+  .code-description {
+    font-size: 14px;
+    color: #666666;
+  }
+  
+  .code-example {
+    font-family: 'Courier New', monospace;
+    font-size: 14px;
+    color: #555555;
+  }
+  
+  .code-link {
+    color: #007bff;
+  }
+  
+  .code-link:hover {
+    color: #0056b3;
+  }
   
   
