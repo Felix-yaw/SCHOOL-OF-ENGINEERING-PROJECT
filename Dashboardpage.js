@@ -1,7 +1,7 @@
 import React from 'react';
 import DashboardPage from './Dashboard';
 
-const App = () => {
+const Something = () => {
   // Example data
   const studentName = 'John Doe';
   const department = 'Computer Science';
@@ -19,4 +19,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default Something;

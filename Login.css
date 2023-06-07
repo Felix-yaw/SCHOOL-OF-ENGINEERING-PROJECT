@@ -1,11 +1,7 @@
-.container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-  }
+
   
-  .login-page {
-    background-color: #f9f9f9;
+ .login-page {
+    background-color: #4e88fc;
     border: 1px solid #ddd;
     border-radius: 5px;
     padding: 20px;
